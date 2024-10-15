@@ -1,0 +1,2 @@
+Data from:
+https://huggingface.co/datasets/mitermix/chess-selfplay/tree/main

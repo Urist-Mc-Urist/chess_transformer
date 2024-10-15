@@ -30,7 +30,7 @@ By weighting White and Black's winning moves, (to borrow terminology from LLMs) 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/chess-transformer.git
+   git clone https://github.com/Urist-Mc-Urist/chess_transformer.git
    cd chess-transformer
    ```
 
